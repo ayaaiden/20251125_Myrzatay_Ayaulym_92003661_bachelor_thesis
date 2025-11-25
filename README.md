@@ -132,5 +132,4 @@ python3 scripts/13_realtime_video_builder.py
 
 <br>
 <br>
-# 20251125-Myrzatay_Ayaulym_92003661_bachelor_thesis
 # 20251125_Myrzatay_Ayaulym_92003661_bachelor_thesis
