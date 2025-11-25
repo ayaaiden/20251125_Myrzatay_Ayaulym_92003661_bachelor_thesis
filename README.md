@@ -12,7 +12,7 @@ This repository implenmets realtime American Sign Language recognition with deep
 
 ## Installation
 
-### Clone the repository
+### Clone the repository: https://github.com/ayaaiden/20251125_Myrzatay_Ayaulym_92003661_bachelor_thesis 
 
 ## **A. Create Virtual Environment**
 
